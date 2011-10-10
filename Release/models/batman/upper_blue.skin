@@ -1,0 +1,6 @@
+tag_head,
+u_neck,models\players\batman\head.tga
+u_cape,models\players\batman\cape.tga
+u_body,models\players\batman\blueb.tga
+tag_weapon,
+tag_torso,
